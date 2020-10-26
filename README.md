@@ -12,8 +12,7 @@ The app can be use to add any number of team member (engineer or intern in this 
 # Built with
 The application is built using VS Code. The code can be run in terminal using node and also final output can be access in browser.
  
-# Screenshot of app
-!
+# Video gif of app
 ![gif file team profile generator](Homework/Assignment10longGif.gif);
 
 # repository link of app
